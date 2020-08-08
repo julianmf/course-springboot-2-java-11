@@ -1,4 +1,4 @@
-package com.educandoweb.cursor;
+package com.educandoweb.course;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
